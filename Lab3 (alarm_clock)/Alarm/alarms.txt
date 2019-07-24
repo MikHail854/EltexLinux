@@ -1,0 +1,3 @@
+DISPLAY=:0 
+DISPLAY=:0 
+10 13 * * * /home/mikhail/AdminLinux/Alarm/music1.sh
