@@ -1,0 +1,8 @@
+#!/bin/bash
+
+whoami | tee /home/mikhail/lg.txt ;
+date | tee -a /home/mikhail/lg.txt ;
+hostname | tee -a /home/mikhail/lg.txt ;
+
+
+
